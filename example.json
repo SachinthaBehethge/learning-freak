@@ -1,0 +1,10 @@
+{
+    "name": "Saman",
+    "age":25 ,
+    "profession": "Teacher",
+    "institute": "K/Haldumulla Central College",
+    "salary":75000,
+    
+    "isDegreeHolder": true
+
+}
